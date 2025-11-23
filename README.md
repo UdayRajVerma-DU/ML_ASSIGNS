@@ -9,3 +9,7 @@ linear_reg_california => https://colab.research.google.com/drive/1i6gEYLHBYIcEfw
 
 logistic_reg_pima => https://colab.research.google.com/drive/1_2nalvxevGPKXlijhcOPd2lf7jHrv3Gw?usp=sharing
 
+logistic_L2_cat => 
+
+cat_he_initial => https://colab.research.google.com/drive/152dIehJAOfF_00EFYn_7ZQxuNd7KRrzt?usp=sharing
+
